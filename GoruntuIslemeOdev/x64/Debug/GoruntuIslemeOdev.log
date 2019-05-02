@@ -1,0 +1,6 @@
+﻿  ResimGrilestir.cpp
+d:\lazımlıklar\dersler\veriler\goruntuislemeodev\goruntuislemeodev\resimgrilestir.cpp(14): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\lazımlıklar\dersler\veriler\goruntuislemeodev\goruntuislemeodev\resimgrilestir.cpp(15): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\lazımlıklar\dersler\veriler\goruntuislemeodev\goruntuislemeodev\resimgrilestir.cpp(16): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  GoruntuIslemeOdev.vcxproj -> D:\lazımlıklar\dersler\veriler\GoruntuIslemeOdev\x64\Debug\GoruntuIslemeOdev.exe
+  GoruntuIslemeOdev.vcxproj -> D:\lazımlıklar\dersler\veriler\GoruntuIslemeOdev\x64\Debug\GoruntuIslemeOdev.pdb (Full PDB)
